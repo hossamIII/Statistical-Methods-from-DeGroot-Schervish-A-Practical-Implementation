@@ -3,5 +3,6 @@ This repo brings to life key statistical concepts from DeGroot &amp; Schervish -
 
 Current Progress:
 ✅ Measures of Central Tendency (Mean, Median, Mode, etc.)
-🔄 Measures of Dispersion (Variance, Standard Deviation) – Coming Soon
+Coming soon:
+🔄 Measures of Dispersion (Variance, Standard Deviation)
 🔄 Simple Linear Regression & Correlation – Coming Soon
